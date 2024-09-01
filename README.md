@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @Bhaveendar-Sodho
-- 👀 I’m interested in business studies
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning software Engineering
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💞️ I’m looking to collaborate on open-sourse project.
+- 📫 How to reach me :[bbhaveendarsinghrajput@gamil.com
+- ⚡ Fun fact: coding and coffee!
 
 <!---
 Bhaveendar-Sodho/Bhaveendar-Sodho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
